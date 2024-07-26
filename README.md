@@ -44,3 +44,11 @@ Push your changes to GitHub:
 bash
 Copy code
 git push origin main
+## Instructions
+1. Ensure you have Python and the required libraries installed.
+2. Place the `10k_borrowers_data.csv` file in the same directory as `etl_script.py`.
+3. Run the `etl_script.py` script:
+
+
+## Contact
+For any questions or issues, please contact [sauravjha62@gmail.com].
